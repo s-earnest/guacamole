@@ -1,42 +1,42 @@
 const resource = [
     /* --- CSS --- */
-    '/assets/css/style.css',
+    '/guacamola/assets/css/style.css',
 
     /* --- PWA --- */
-    '/app.js',
-    '/sw.js',
+    '/guacamola/app.js',
+    '/guacamola/sw.js',
 
     /* --- HTML --- */
-    '/index.html',
-    '/404.html',
+    '/guacamola/index.html',
+    '/guacamola/404.html',
 
     
-        '/categories/',
+        '/guacamola/categories/',
     
-        '/tags/',
+        '/guacamola/tags/',
     
-        '/archives/',
+        '/guacamola/archives/',
     
-        '/about/',
+        '/guacamola/about/',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/assets/img/favicons/android-chrome-192x192.png',
-        '/assets/img/favicons/android-chrome-512x512.png',
-        '/assets/img/favicons/apple-touch-icon.png',
-        '/assets/img/favicons/favicon-16x16.png',
-        '/assets/img/favicons/favicon-32x32.png',
-        '/assets/img/favicons/favicon.ico',
-        '/assets/img/favicons/mstile-150x150.png',
-        '/assets/js/dist/categories.min.js',
-        '/assets/js/dist/commons.min.js',
-        '/assets/js/dist/home.min.js',
-        '/assets/js/dist/misc.min.js',
-        '/assets/js/dist/page.min.js',
-        '/assets/js/dist/post.min.js',
-        '/assets/js/dist/pvreport.min.js'
+        '/guacamola/assets/img/favicons/android-chrome-192x192.png',
+        '/guacamola/assets/img/favicons/android-chrome-512x512.png',
+        '/guacamola/assets/img/favicons/apple-touch-icon.png',
+        '/guacamola/assets/img/favicons/favicon-16x16.png',
+        '/guacamola/assets/img/favicons/favicon-32x32.png',
+        '/guacamola/assets/img/favicons/favicon.ico',
+        '/guacamola/assets/img/favicons/mstile-150x150.png',
+        '/guacamola/assets/js/dist/categories.min.js',
+        '/guacamola/assets/js/dist/commons.min.js',
+        '/guacamola/assets/js/dist/home.min.js',
+        '/guacamola/assets/js/dist/misc.min.js',
+        '/guacamola/assets/js/dist/page.min.js',
+        '/guacamola/assets/js/dist/post.min.js',
+        '/guacamola/assets/js/dist/pvreport.min.js'
 ];
 
 /* The request url with below domain will be cached */
