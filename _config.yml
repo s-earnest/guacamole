@@ -1,0 +1,9 @@
+
+title: Ernest S.
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+
+# Import the theme
+theme: jekyll-theme-chirpy
+
