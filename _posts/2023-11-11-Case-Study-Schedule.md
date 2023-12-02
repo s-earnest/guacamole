@@ -29,66 +29,32 @@ This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum
 
 | Date Published  |   Topics - Title  | Est. Project  Hours |  Phase  | Status |
 |-----------------|:------------:| :-------------------------:| :-------:| :-------:|
-| TBD   |   Time Series  - Boston Crime Forecasting[^1]     |   739  |  Data Wrangling  |  🟧  |
-| TBD   |   Time Seriest - [Vancouver Crime Forecasting](https://www.qwant.com/?q=quant&client=brz-brave&t=web){:target="_blank"}   |   345   |  Data Collection |  🟧  |
-| TBD       | Marketing Segmentation  -                     |    739 | Data Wrangling stage  |   🟧  |
-| TBD          |  About        |   3     |           |  🟩 
-| TBD       | [References](https://www.qwant.com/?q=quant&client=brz-brave&t=web){:target="_blank"}   |  3  |       |  🟩  |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |  text here    |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
-| TBD       |   Time Series     |            739 | Data Wrangling stage     |
-| TBD          |         |       345           |      Data Collection        |  
+| TBD   |  Time Series  - Boston Crime Forecasting[^1]  |  739  |  Data Wrangling  |  🟧  |
+| TBD   |  Time Seriest - [Vancouver Crime Forecasting](https://www.qwant.com/?q=quant&client=brz-brave&t=web){:target="_blank"}   |  345  |  Data Collection  |  🟧  |
+| TBD   | Marketing Segmentation  -    | 739 |  Data Wrangling  |   🟧  |
+| TBD   |  About        |   3     |   🟩 |
+| TBD   | [References](https://www.qwant.com/?q=quant&client=brz-brave&t=web){:target="_blank"}   |  3  |   🟩  |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+| TBD  |    text here     |   345  |  Phase     |  🟪   |
+
+
+
+
+
+
 
 
 
@@ -101,6 +67,7 @@ This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum
  - 🟦 On-approval status
  - 🟪 Waiting for more information
  - 🟫 Final Review 
+
 
 
 

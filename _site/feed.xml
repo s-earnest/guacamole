@@ -4,7 +4,7 @@
   <id>http://localhost:4000/guacamole/</id>
   <title>Ernest S.</title>
   <subtitle>A minimal, responsive, and powerful writing.</subtitle>
-  <updated>2023-12-02T05:59:19-08:00</updated>
+  <updated>2023-12-02T06:37:52-08:00</updated>
   <author>
     <name>Ernest S.</name>
     <uri>http://localhost:4000/guacamole/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>template article</title>
-    <link href="http://localhost:4000/guacamole/posts/template-4/" rel="alternate" type="text/html" title="template article" />
+    <title>template testing</title>
+    <link href="http://localhost:4000/guacamole/posts/template-4/" rel="alternate" type="text/html" title="template testing" />
     <published>2024-02-10T13:20:02-08:00</published>
   
     <updated>2023-11-28T00:00:00-08:00</updated>
@@ -34,7 +34,7 @@
 
   
     
-    <category term="Template" />
+    <category term="Testing" />
     
   
 
@@ -46,7 +46,17 @@
 
 
 
-      
+      Time Series  - Boston Crime Forecasting1
+
+Footnotes
+
+
+  
+    
+      ‘Nicolas Sarkozy s’attaque aux paradis fiscaux et à la suprématie du dollar’ (Nicolas Sarkozy attacks tax havens and the supremacy of the dollar), Le Point, Paris, 13 December 2010. &amp;#8617;
+    
+  
+
 
     </summary>
   
