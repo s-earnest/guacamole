@@ -1,42 +1,43 @@
 const resource = [
     /* --- CSS --- */
-    '/guacamola/assets/css/style.css',
+    '/guacamole/assets/css/style.css',
 
     /* --- PWA --- */
-    '/guacamola/app.js',
-    '/guacamola/sw.js',
+    '/guacamole/app.js',
+    '/guacamole/sw.js',
 
     /* --- HTML --- */
-    '/guacamola/index.html',
-    '/guacamola/404.html',
+    '/guacamole/index.html',
+    '/guacamole/404.html',
 
     
-        '/guacamola/categories/',
+        '/guacamole/categories/',
     
-        '/guacamola/tags/',
+        '/guacamole/tags/',
     
-        '/guacamola/archives/',
+        '/guacamole/archives/',
     
-        '/guacamola/about/',
+        '/guacamole/about/',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/guacamola/assets/img/favicons/android-chrome-192x192.png',
-        '/guacamola/assets/img/favicons/android-chrome-512x512.png',
-        '/guacamola/assets/img/favicons/apple-touch-icon.png',
-        '/guacamola/assets/img/favicons/favicon-16x16.png',
-        '/guacamola/assets/img/favicons/favicon-32x32.png',
-        '/guacamola/assets/img/favicons/favicon.ico',
-        '/guacamola/assets/img/favicons/mstile-150x150.png',
-        '/guacamola/assets/js/dist/categories.min.js',
-        '/guacamola/assets/js/dist/commons.min.js',
-        '/guacamola/assets/js/dist/home.min.js',
-        '/guacamola/assets/js/dist/misc.min.js',
-        '/guacamola/assets/js/dist/page.min.js',
-        '/guacamola/assets/js/dist/post.min.js',
-        '/guacamola/assets/js/dist/pvreport.min.js'
+        '/guacamole/assets/img/favicons/android-chrome-192x192.png',
+        '/guacamole/assets/img/favicons/android-chrome-512x512.png',
+        '/guacamole/assets/img/favicons/apple-touch-icon.png',
+        '/guacamole/assets/img/favicons/favicon-16x16.png',
+        '/guacamole/assets/img/favicons/favicon-32x32.png',
+        '/guacamole/assets/img/favicons/favicon.ico',
+        '/guacamole/assets/img/favicons/site.webmanifest',
+        '/guacamole/assets/js/dist/categories.min.js',
+        '/guacamole/assets/js/dist/commons.min.js',
+        '/guacamole/assets/js/dist/home.min.js',
+        '/guacamole/assets/js/dist/misc.min.js',
+        '/guacamole/assets/js/dist/page.min.js',
+        '/guacamole/assets/js/dist/post.min.js',
+        '/guacamole/assets/js/dist/pvreport.min.js',
+        '/guacamole/assets/img/favicons/.DS_Store'
 ];
 
 /* The request url with below domain will be cached */

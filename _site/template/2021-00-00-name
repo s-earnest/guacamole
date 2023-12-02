@@ -40,8 +40,8 @@
 <meta property="og:locale" content="en" />
 <meta name="description" content="A minimal, responsive, and powerful writing." />
 <meta property="og:description" content="A minimal, responsive, and powerful writing." />
-<link rel="canonical" href="http://localhost:4000/guacamola/template/2021-00-00-name" />
-<meta property="og:url" content="http://localhost:4000/guacamola/template/2021-00-00-name" />
+<link rel="canonical" href="http://localhost:4000/guacamole/template/2021-00-00-name" />
+<meta property="og:url" content="http://localhost:4000/guacamole/template/2021-00-00-name" />
 <meta property="og:site_name" content="Ernest S." />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2021-01-01T06:00:00-08:00" />
@@ -49,7 +49,7 @@
 <meta property="twitter:title" content="Some Title" />
 <meta name="twitter:site" content="@twitter_username" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2021-01-01T06:00:00-08:00","datePublished":"2021-01-01T06:00:00-08:00","description":"A minimal, responsive, and powerful writing.","headline":"Some Title","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/guacamola/template/2021-00-00-name"},"url":"http://localhost:4000/guacamola/template/2021-00-00-name"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2021-01-01T06:00:00-08:00","datePublished":"2021-01-01T06:00:00-08:00","description":"A minimal, responsive, and powerful writing.","headline":"Some Title","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/guacamole/template/2021-00-00-name"},"url":"http://localhost:4000/guacamole/template/2021-00-00-name"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -64,15 +64,15 @@
 
 
 
-<link rel="apple-touch-icon" sizes="180x180" href="/guacamola/assets/img/favicons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/guacamola/assets/img/favicons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/guacamola/assets/img/favicons/favicon-16x16.png">
-<link rel="manifest" href="/guacamola/assets/img/favicons/site.webmanifest">
-<link rel="shortcut icon" href="/guacamola/assets/img/favicons/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/guacamole/assets/img/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/guacamole/assets/img/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/guacamole/assets/img/favicons/favicon-16x16.png">
+<link rel="manifest" href="/guacamole/assets/img/favicons/site.webmanifest">
+<link rel="shortcut icon" href="/guacamole/assets/img/favicons/favicon.ico">
 <meta name="apple-mobile-web-app-title" content="Ernest S.">
 <meta name="application-name" content="Ernest S.">
 <meta name="msapplication-TileColor" content="#da532c">
-<meta name="msapplication-config" content="/guacamola/assets/img/favicons/browserconfig.xml">
+<meta name="msapplication-config" content="/guacamole/assets/img/favicons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
 
@@ -105,7 +105,7 @@
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css">
 
-  <link rel="stylesheet" href="/guacamola/assets/css/style.css">
+  <link rel="stylesheet" href="/guacamole/assets/css/style.css">
 
   
 
@@ -262,16 +262,16 @@
 <div id="sidebar" class="d-flex flex-column align-items-end">
   <div class="profile-wrapper text-center">
     <div id="avatar">
-      <a href="/guacamola/" class="mx-auto">
+      <a href="/guacamole/" class="mx-auto">
         
           
-          <img src="/guacamola/assets/img/cat.png" alt="avatar" onerror="this.style.display='none'">
+          <img src="/guacamole/assets/img/cat.png" alt="avatar" onerror="this.style.display='none'">
         
       </a>
     </div>
 
     <div class="site-title">
-      <a href="/guacamola/">Ernest S.</a>
+      <a href="/guacamole/">Ernest S.</a>
     </div>
     <div class="site-subtitle font-italic">Minimal Writing Technical Documentation</div>
 
@@ -281,7 +281,7 @@
 
     <!-- home -->
     <li class="nav-item">
-      <a href="/guacamola/" class="nav-link">
+      <a href="/guacamole/" class="nav-link">
         <i class="fa-fw fas fa-home ml-xl-3 mr-xl-3 unloaded"></i>
         <span>HOME</span>
       </a>
@@ -289,7 +289,7 @@
     <!-- the real tabs -->
     
     <li class="nav-item">
-      <a href="/guacamola/categories/" class="nav-link">
+      <a href="/guacamole/categories/" class="nav-link">
         <i class="fa-fw fas fa-stream ml-xl-3 mr-xl-3 unloaded"></i>
         
 
@@ -298,7 +298,7 @@
     </li> <!-- .nav-item -->
     
     <li class="nav-item">
-      <a href="/guacamola/tags/" class="nav-link">
+      <a href="/guacamole/tags/" class="nav-link">
         <i class="fa-fw fas fa-tag ml-xl-3 mr-xl-3 unloaded"></i>
         
 
@@ -307,7 +307,7 @@
     </li> <!-- .nav-item -->
     
     <li class="nav-item">
-      <a href="/guacamola/archives/" class="nav-link">
+      <a href="/guacamole/archives/" class="nav-link">
         <i class="fa-fw fas fa-archive ml-xl-3 mr-xl-3 unloaded"></i>
         
 
@@ -316,7 +316,7 @@
     </li> <!-- .nav-item -->
     
     <li class="nav-item">
-      <a href="/guacamola/about/" class="nav-link">
+      <a href="/guacamole/about/" class="nav-link">
         <i class="fa-fw fas fa-info-circle ml-xl-3 mr-xl-3 unloaded"></i>
         
 
@@ -414,7 +414,7 @@
 
         
           <span>
-            <a href="/guacamola/">
+            <a href="/guacamole/">
               Home
             </a>
           </span>
@@ -643,7 +643,7 @@ SOME DESCRIPTION
   <div class="post-meta mb-3">
     <i class="far fa-folder-open fa-fw mr-1"></i>
     
-      <a href='/guacamola/categories/homelab/'>homelab</a>
+      <a href='/guacamole/categories/homelab/'>homelab</a>
   </div>
   
 
@@ -652,7 +652,7 @@ SOME DESCRIPTION
   <div class="post-tags">
     <i class="fa fa-tags fa-fw mr-1"></i>
       
-      <a href="/guacamola/tags/homelab-rancher-kubernetes/"
+      <a href="/guacamole/tags/homelab-rancher-kubernetes/"
           class="post-tag no-text-decoration" >homelab rancher kubernetes</a>
       
   </div>
@@ -693,13 +693,13 @@ SOME DESCRIPTION
         </a>
     
       
-        <a href="https://www.facebook.com/sharer/sharer.php?title=Some Title - Ernest S.&u=http%3A%2F%2Flocalhost%3A4000%2Fguacamola%2Ftemplate%2F2021-00-00-name" data-toggle="tooltip" data-placement="top"
+        <a href="https://www.facebook.com/sharer/sharer.php?title=Some Title - Ernest S.&u=http%3A%2F%2Flocalhost%3A4000%2Fguacamole%2Ftemplate%2F2021-00-00-name" data-toggle="tooltip" data-placement="top"
           title="Facebook" target="_blank" rel="noopener" aria-label="Facebook">
           <i class="fa-fw fab fa-facebook-square"></i>
         </a>
     
       
-        <a href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A4000%2Fguacamola%2Ftemplate%2F2021-00-00-name" data-toggle="tooltip" data-placement="top"
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A4000%2Fguacamole%2Ftemplate%2F2021-00-00-name" data-toggle="tooltip" data-placement="top"
           title="Linkedin" target="_blank" rel="noopener" aria-label="Linkedin">
           <i class="fa-fw fab fa-linkedin"></i>
         </a>
@@ -747,6 +747,40 @@ SOME DESCRIPTION
 
 
 
+  <div id="access-lastmod" class="post">
+    <div class="panel-heading">Recently Updated</div>
+    <ul class="post-content pl-0 pb-1 ml-1 mt-2">
+      
+        
+        
+        
+      <li><a href="/guacamole/posts/Knowledge-Network/">Knowledge Network</a></li>
+      
+        
+        
+        
+      <li><a href="/guacamole/posts/Data-Is-Better-With-Visuals/">Data Is Better With Visuals</a></li>
+      
+        
+        
+        
+      <li><a href="/guacamole/posts/The-Ritual-For-Data-Analysis/">The Ritual For Data Analysis</a></li>
+      
+        
+        
+        
+      <li><a href="/guacamole/posts/Marketing-Segmentation/">Marketing Segmentation Analysis</a></li>
+      
+        
+        
+        
+      <li><a href="/guacamole/posts/Vancouver-Crime-Forecasting/">Crime Forecasting For Vancouver City - BC</a></li>
+      
+    </ul>
+  </div> <!-- #access-lastmod -->
+
+
+
       
 
 
@@ -762,6 +796,551 @@ SOME DESCRIPTION
 
 
 
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
 
   
     
@@ -806,112 +1385,6 @@ SOME DESCRIPTION
     
     
     
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
     
   
     
@@ -930,22 +1403,34 @@ SOME DESCRIPTION
 
     
       
-      <a class="post-tag" href="/guacamola/tags/favicon/">favicon</a>
+      <a class="post-tag" href="/guacamole/tags/article/">article</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/getting-started/">getting started</a>
+      <a class="post-tag" href="/guacamole/tags/tamplate-tag-2/">tamplate-tag-2</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/google-analytics/">google analytics</a>
+      <a class="post-tag" href="/guacamole/tags/template-tag-01/">template-tag-01</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/pageviews/">pageviews</a>
+      <a class="post-tag" href="/guacamole/tags/template-tag-3/">template-tag-3</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/typography/">typography</a>
+      <a class="post-tag" href="/guacamole/tags/works/">works</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/writing/">writing</a>
+      <a class="post-tag" href="/guacamole/tags/notes/">notes</a>
+    
+      
+      <a class="post-tag" href="/guacamole/tags/processes/">processes</a>
+    
+      
+      <a class="post-tag" href="/guacamole/tags/about/">about</a>
+    
+      
+      <a class="post-tag" href="/guacamole/tags/analysis/">analysis</a>
+    
+      
+      <a class="post-tag" href="/guacamole/tags/clustering/">clustering</a>
     
 
     </div>
@@ -990,6 +1475,136 @@ SOME DESCRIPTION
 
 
 
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
 
   
@@ -1107,7 +1722,7 @@ SOME DESCRIPTION
       
       
       <div class="card">
-        <a href="/guacamola/posts/enable-google-pv/">
+        <a href="/guacamole/posts/template-4/">
           <div class="card-body">
             <!--
   Date format snippet
@@ -1119,13 +1734,13 @@ SOME DESCRIPTION
 
 
 <em class="small"
-    data-ts="1609716720"
+    data-ts="1707600002"
     data-df="ll"
     >
-  Jan  3, 2021
+  Feb 10, 2024
 </em>
 
-            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>Enable Google Page Views</h3>
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>template article</h3>
             <div class="text-muted small">
               <p>
                 
@@ -1135,7 +1750,7 @@ SOME DESCRIPTION
 
 
                 
-  The content of this post applies only to Universal Analytics property (UA), not Google Analytics 4 (GA 4). In addition, since UA is about to be deprecated on Jul 1, 2023, the Page Views feature ...
+
               </p>
             </div>
           </div>
@@ -1145,7 +1760,7 @@ SOME DESCRIPTION
       
       
       <div class="card">
-        <a href="/guacamola/posts/customize-the-favicon/">
+        <a href="/guacamole/posts/template-2/">
           <div class="card-body">
             <!--
   Date format snippet
@@ -1157,13 +1772,13 @@ SOME DESCRIPTION
 
 
 <em class="small"
-    data-ts="1565454840"
+    data-ts="1704921602"
     data-df="ll"
     >
-  Aug 10, 2019
+  Jan 10, 2024
 </em>
 
-            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>Customize the Favicon</h3>
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>template article</h3>
             <div class="text-muted small">
               <p>
                 
@@ -1172,7 +1787,8 @@ SOME DESCRIPTION
 
 
 
-                The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons...
+                
+
               </p>
             </div>
           </div>
@@ -1182,7 +1798,7 @@ SOME DESCRIPTION
       
       
       <div class="card">
-        <a href="/guacamola/posts/getting-started/">
+        <a href="/guacamole/posts/Crime-Forecasting-Boston-City/">
           <div class="card-body">
             <!--
   Date format snippet
@@ -1194,13 +1810,13 @@ SOME DESCRIPTION
 
 
 <em class="small"
-    data-ts="1565355300"
+    data-ts="1703107202"
     data-df="ll"
     >
-  Aug  9, 2019
+  Dec 20, 2023
 </em>
 
-            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>Getting Started</h3>
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>Crime Forecasting For Boston City - USA</h3>
             <div class="text-muted small">
               <p>
                 
@@ -1209,13 +1825,8 @@ SOME DESCRIPTION
 
 
 
-                Prerequisites
-
-Follow the instructions in the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll, and Bundler. In addition, Git is also required to be installed.
-
-Installation
-
-Crea...
+                
+  This is an example of a Tip. This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog p...
               </p>
             </div>
           </div>
@@ -1288,6 +1899,551 @@ Crea...
     
     
     
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
       
         
         
@@ -1326,112 +2482,6 @@ Crea...
     
     
     
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
     
   
     
@@ -1450,22 +2500,34 @@ Crea...
 
     
       
-      <a class="post-tag" href="/guacamola/tags/favicon/">favicon</a>
+      <a class="post-tag" href="/guacamole/tags/article/">article</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/getting-started/">getting started</a>
+      <a class="post-tag" href="/guacamole/tags/tamplate-tag-2/">tamplate-tag-2</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/google-analytics/">google analytics</a>
+      <a class="post-tag" href="/guacamole/tags/template-tag-01/">template-tag-01</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/pageviews/">pageviews</a>
+      <a class="post-tag" href="/guacamole/tags/template-tag-3/">template-tag-3</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/typography/">typography</a>
+      <a class="post-tag" href="/guacamole/tags/works/">works</a>
     
       
-      <a class="post-tag" href="/guacamola/tags/writing/">writing</a>
+      <a class="post-tag" href="/guacamole/tags/notes/">notes</a>
+    
+      
+      <a class="post-tag" href="/guacamole/tags/processes/">processes</a>
+    
+      
+      <a class="post-tag" href="/guacamole/tags/about/">about</a>
+    
+      
+      <a class="post-tag" href="/guacamole/tags/analysis/">analysis</a>
+    
+      
+      <a class="post-tag" href="/guacamole/tags/clustering/">clustering</a>
     
 
     </div>
@@ -1542,7 +2604,7 @@ Crea...
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('search-results'),
-  json: '/guacamola/assets/js/data/search.json',
+  json: '/guacamole/assets/js/data/search.json',
   searchResultTemplate: '<div class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-lg-4 pr-lg-4 pl-xl-0 pr-xl-0">  <a href="{url}">{title}</a>  <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">    {categories}    {tags}  </div>  <p>{snippet}</p></div>',
   noResultsText: '<p class="mt-5">Oops! No results found.</p>',
   templateMiddleware: function(prop, value, template) {
@@ -1681,7 +2743,7 @@ SimpleJekyllSearch({
 
 
 
-<script defer src="/guacamola/assets/js/dist/post.min.js"></script>
+<script defer src="/guacamole/assets/js/dist/post.min.js"></script>
 
 
 

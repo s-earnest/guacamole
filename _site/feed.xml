@@ -1,42 +1,40 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/guacamola/</id>
+  <id>http://localhost:4000/guacamole/</id>
   <title>Ernest S.</title>
   <subtitle>A minimal, responsive, and powerful writing.</subtitle>
-  <updated>2023-11-08T17:59:28-08:00</updated>
+  <updated>2023-12-02T05:59:19-08:00</updated>
   <author>
     <name>Ernest S.</name>
-    <uri>http://localhost:4000/guacamola/</uri>
+    <uri>http://localhost:4000/guacamole/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/guacamola/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/guacamole/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/guacamola/"/>
+    href="http://localhost:4000/guacamole/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 Ernest S. </rights>
-  <icon>/guacamola/assets/img/favicons/favicon.ico</icon>
-  <logo>/guacamola/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/guacamole/assets/img/favicons/favicon.ico</icon>
+  <logo>/guacamole/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Enable Google Page Views</title>
-    <link href="http://localhost:4000/guacamola/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
-    <published>2021-01-03T15:32:00-08:00</published>
+    <title>template article</title>
+    <link href="http://localhost:4000/guacamole/posts/template-4/" rel="alternate" type="text/html" title="template article" />
+    <published>2024-02-10T13:20:02-08:00</published>
   
-    <updated>2021-01-03T15:32:00-08:00</updated>
+    <updated>2023-11-28T00:00:00-08:00</updated>
   
-    <id>http://localhost:4000/guacamola/posts/enable-google-pv/</id>
-    <content src="http://localhost:4000/guacamola/posts/enable-google-pv/" />
+    <id>http://localhost:4000/guacamole/posts/template-4/</id>
+    <content src="http://localhost:4000/guacamole/posts/template-4/" />
     <author>
-      <name>sille_bille</name>
+      <name>cotes</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
+    <category term="Template" />
     
   
 
@@ -49,10 +47,7 @@
 
 
       
-  The content of this post applies only to Universal Analytics property (UA), not Google Analytics 4 (GA 4). In addition, since UA is about to be deprecated on Jul 1, 2023, the Page Views feature of Chirpy will also be deprecated at that time.
 
-
-This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep t...
     </summary>
   
 
@@ -60,23 +55,21 @@ This post is to enable Page Views on the Chirpy theme based blog that you just b
 
   
   <entry>
-    <title>Customize the Favicon</title>
-    <link href="http://localhost:4000/guacamola/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
-    <published>2019-08-10T09:34:00-07:00</published>
+    <title>template article</title>
+    <link href="http://localhost:4000/guacamole/posts/template-2/" rel="alternate" type="text/html" title="template article" />
+    <published>2024-01-10T13:20:02-08:00</published>
   
-    <updated>2019-08-10T09:34:00-07:00</updated>
+    <updated>2023-11-28T00:00:00-08:00</updated>
   
-    <id>http://localhost:4000/guacamola/posts/customize-the-favicon/</id>
-    <content src="http://localhost:4000/guacamola/posts/customize-the-favicon/" />
+    <id>http://localhost:4000/guacamole/posts/template-2/</id>
+    <content src="http://localhost:4000/guacamole/posts/template-2/" />
     <author>
       <name>cotes</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
+    <category term="Template" />
     
   
 
@@ -88,11 +81,8 @@ This post is to enable Page Views on the Chirpy theme based blog that you just b
 
 
 
-      The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+      
 
-Generate the favicon
-
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click the button Select your Favicon image ...
     </summary>
   
 
@@ -100,23 +90,23 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
 
   
   <entry>
-    <title>Getting Started</title>
-    <link href="http://localhost:4000/guacamola/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T05:55:00-07:00</published>
+    <title>Crime Forecasting For Boston City - USA</title>
+    <link href="http://localhost:4000/guacamole/posts/Crime-Forecasting-Boston-City/" rel="alternate" type="text/html" title="Crime Forecasting For Boston City - USA" />
+    <published>2023-12-20T13:20:02-08:00</published>
   
-    <updated>2019-08-09T05:55:00-07:00</updated>
+    <updated>2023-11-28T00:00:00-08:00</updated>
   
-    <id>http://localhost:4000/guacamola/posts/getting-started/</id>
-    <content src="http://localhost:4000/guacamola/posts/getting-started/" />
+    <id>http://localhost:4000/guacamole/posts/Crime-Forecasting-Boston-City/</id>
+    <content src="http://localhost:4000/guacamole/posts/Crime-Forecasting-Boston-City/" />
     <author>
-      <name>cotes</name>
+      <name>Ernest S.</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Work" />
     
-    <category term="Tutorial" />
+    <category term="Time Series" />
     
   
 
@@ -128,19 +118,11 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
 
 
 
-      Prerequisites
-
-Follow the instructions in the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll, and Bundler. In addition, Git is also required to be installed.
-
-Installation
-
-Creating a New Site
-
-There are two ways to create a new repository for this theme:
+      
+  This is an example of a Tip. This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now.
 
 
-  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
-  Forking ...
+Here’s a simple footnote,1 and here’s a lo...
     </summary>
   
 
@@ -148,23 +130,23 @@ There are two ways to create a new repository for this theme:
 
   
   <entry>
-    <title>Writing a New Post</title>
-    <link href="http://localhost:4000/guacamola/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2019-08-07T23:10:00-07:00</published>
+    <title>Time Series Forecasting</title>
+    <link href="http://localhost:4000/guacamole/posts/Time-Series-Forecasting/" rel="alternate" type="text/html" title="Time Series Forecasting" />
+    <published>2023-10-02T14:20:02-07:00</published>
   
-    <updated>2019-08-07T23:10:00-07:00</updated>
+    <updated>2023-11-28T00:00:00-08:00</updated>
   
-    <id>http://localhost:4000/guacamola/posts/write-a-new-post/</id>
-    <content src="http://localhost:4000/guacamola/posts/write-a-new-post/" />
+    <id>http://localhost:4000/guacamole/posts/Time-Series-Forecasting/</id>
+    <content src="http://localhost:4000/guacamole/posts/Time-Series-Forecasting/" />
     <author>
       <name>cotes</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Time Series" />
     
-    <category term="Tutorial" />
+    <category term="Article" />
     
   
 
@@ -176,11 +158,11 @@ There are two ways to create a new repository for this theme:
 
 
 
-      This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.
+      
 
-Naming and Path
+This post will show up by default. To disable scheduling of future posts, edit config.yml and set future: false.
 
-Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of the root directory. Please note that the EXTENSION must be one of md and markdown. If you want to save time of cre...
+This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t...
     </summary>
   
 
@@ -188,23 +170,23 @@ Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of t
 
   
   <entry>
-    <title>Text and Typography</title>
-    <link href="http://localhost:4000/guacamola/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
-    <published>2019-08-07T20:33:00-07:00</published>
+    <title>Crime Forecasting For Vancouver City - BC</title>
+    <link href="http://localhost:4000/guacamole/posts/Vancouver-Crime-Forecasting/" rel="alternate" type="text/html" title="Crime Forecasting For Vancouver City - BC" />
+    <published>2023-10-01T14:20:02-07:00</published>
   
-    <updated>2019-08-07T20:33:00-07:00</updated>
+    <updated>2023-11-28T00:00:00-08:00</updated>
   
-    <id>http://localhost:4000/guacamola/posts/text-and-typography/</id>
-    <content src="http://localhost:4000/guacamola/posts/text-and-typography/" />
+    <id>http://localhost:4000/guacamole/posts/Vancouver-Crime-Forecasting/</id>
+    <content src="http://localhost:4000/guacamole/posts/Vancouver-Crime-Forecasting/" />
     <author>
       <name>cotes</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Article" />
     
-    <category term="Demo" />
+    <category term="Regression" />
     
   
 
@@ -216,22 +198,7 @@ Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of t
 
 
 
-      This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.
-
-Titles
-
-H1 - heading
-
-H2 - heading
-
-H3 - heading
-
-H4 - heading
-
-
-Paragraph
-
-Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisi...
+      This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. This is a sampl...
     </summary>
   
 
