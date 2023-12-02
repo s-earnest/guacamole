@@ -1,6 +1,6 @@
 self.importScripts('/guacamole/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20231202.063753';
+const cacheName = 'chirpy-20231202.072030';
 
 function verifyDomain(url) {
     for (const domain of allowedDomains) {
